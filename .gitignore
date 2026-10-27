@@ -1,0 +1,16 @@
+# Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
